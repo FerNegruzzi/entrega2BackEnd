@@ -59,7 +59,9 @@ console.log(data)
 
 // UPDATE PRODUCT
 
-// productManager.updateProduct(1, 'title', 'tabla de skate pro')
+// await productManager.updateProduct(1, 'title', 'tabla de skate pro')
+// await productManager.updateProduct(1, 'price', 55)
+
 
 
 // DELETE PRODUCT 
